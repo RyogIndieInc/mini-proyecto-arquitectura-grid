@@ -32,3 +32,19 @@
     grid-row-end: 6;
     background-color: #ff7675;
 }
+
+.apartment .room#bedroom {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 6;
+    background-color: #ffeaa7;
+}
+
+.apartment .room#master {
+    grid-column-start: 4;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 6;
+    background-color: #ffeaa7;
+}
