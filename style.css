@@ -12,3 +12,11 @@
     text-align: center;
     font-size: 16px;
 }
+
+.apartment .room#living-room {
+    grid-column-start: 1;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-color: #74b9ff;
+}
